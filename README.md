@@ -11,7 +11,7 @@ We’ll use historical stock price data, including features like opening price, 
 The target variable is the closing price of the stock.
 
 ## Approach:
-# Data Collection: Gather historical stock price data for the desired stock (e.g., Apple Inc.).
+# Data Collection:
 # Data Preprocessing:
 * Remove any missing values.
 * Convert date strings to datetime objects.
